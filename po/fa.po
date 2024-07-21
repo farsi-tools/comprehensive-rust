@@ -2444,14 +2444,16 @@ msgstr "بلوک های کد در این دوره کاملاً تعاملی(inte
 
 #: src/cargo/code-samples.md:15 src/cargo/running-locally.md:46
 msgid "\"Edit me!\""
-msgstr ""
+msgstr "\"Edit me!\""
 
 #: src/cargo/code-samples.md:19
 #, fuzzy
 msgid ""
 "You can use <kbd>Ctrl + Enter</kbd> to execute the code when focus is in the "
 "text box."
-msgstr "برای اجرای کد زمانی که focus در text box است."
+msgstr ""
+"You can use <kbd>Ctrl + Enter</kbd> to execute the code when focus is in the "
+"text box."
 
 #: src/cargo/code-samples.md:24
 msgid ""
