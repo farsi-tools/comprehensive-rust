@@ -83,7 +83,7 @@ msgstr ""
 #: src/SUMMARY.md src/running-the-course/course-structure.md:17
 #: src/welcome-day-1.md src/types-and-values.md
 msgid "Types and Values"
-msgstr ""
+msgstr "انواع داده ها و مقدار ها"
 
 #: src/SUMMARY.md src/types-and-values.md src/types-and-values/variables.md:1
 msgid "Variables"
@@ -2601,15 +2601,15 @@ msgstr ""
 #: src/welcome-day-1.md
 #, fuzzy
 msgid "Types and type inference."
-msgstr "Type Inference"
+msgstr "انواع داده‌ها و نوع اینترفیس"
 
 #: src/welcome-day-1.md
 msgid "Control flow constructs: loops, conditionals, and so on."
-msgstr ""
+msgstr "ساختارهای کنترل جریان: حلقه ها، شرطی ها و غیره."
 
 #: src/welcome-day-1.md
 msgid "User-defined types: structs and enums."
-msgstr ""
+msgstr "انواع داده تعریف شده توسط کاربر : structs and enums."
 
 #: src/welcome-day-1.md
 msgid "Pattern matching: destructuring enums, structs, and arrays."
@@ -2619,13 +2619,15 @@ msgstr "تطابق الگو: تجزیه و تحلیل enums, structs و آرای
 #: src/welcome-day-4.md src/concurrency/welcome.md
 #: src/concurrency/welcome-async.md
 msgid "Schedule"
-msgstr ""
+msgstr "زمان بندی"
 
 #: src/welcome-day-1.md
 msgid ""
 "Including 10 minute breaks, this session should take about 2 hours and 5 "
 "minutes. It contains:"
 msgstr ""
+"شامل ۱۰ دقیقه زمان استراحت، این جلسه حدودا ۲ ساعت و ۵ دقیقه زمان  "
+"می برد. این جلسه شامل :"
 
 #: src/welcome-day-1.md
 msgid "Please remind the students that:"
@@ -2679,6 +2681,10 @@ msgid ""
 "should have immediate parallels in other languages. The more advanced parts "
 "of Rust come on the subsequent days."
 msgstr ""
+"هدف از روز اول این است که مفاهیم اساسی Rust را به نمایش بگذاریم که با مفاهیم "
+"مشابه در زبان‌های دیگر همخوانی دارند. بخش‌های پیشرفته Rust در روزهای بعدی آموزش"
+"داده خواهند شد."
+
 
 #: src/welcome-day-1.md
 msgid ""
@@ -2688,6 +2694,12 @@ msgid ""
 "The times listed here are a suggestion in order to keep the course on "
 "schedule. Feel free to be flexible and adjust as necessary!"
 msgstr ""
+"اگر این درس را در کلاس درس تدریس می‌کنید، اینجاست که می‌توانیدبرنامه را مرور "
+"کنید. توجه داشته باشید که در پایان هر بخش یک تمرینوجود دارد که پس از آن یک"
+"استراحت برنامه‌ریزی شده است. برنامه‌ریزیکنید که بعد از استراحت، راه حل تمرین "
+"را توضیح دهید. زمان‌های ذکرشده در اینجا یک پیشنهاد است تا بتواند دروس را در "
+"برنامه نگه دارد. لطفاً انعطاف‌پذیر باشید و در صورت لزوم تنظیمات لازم را "
+"انجام دهید!"
 
 #: src/hello-world.md src/concurrency/send-sync.md
 msgid "This segment should take about 15 minutes. It contains:"
@@ -3782,6 +3794,8 @@ msgstr ""
 #: src/tuples-and-arrays.md
 msgid "This segment should take about 35 minutes. It contains:"
 msgstr ""
+"با احتساب ۱۰ دقیقه استراحت در هر بخش، این جلسه حدود ۲ ساعت و ۳۵"
+"دقیقه طول خواهد کشید. شامل موارد زیر است:"
 
 #: src/tuples-and-arrays/arrays.md:16
 #, fuzzy
