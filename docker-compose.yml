@@ -7,7 +7,7 @@ services:
       - "3000:3000"
       - "3001:3001"
     volumes:
-      - ./po/fa.po:/po/fa.po
+      - ./po/:/po/
     command: ["mdbook", "serve", "-n", "0.0.0.0" , "-p", "3000"]
     #entrypoint: ["/bin/sh", "-c"]
     #command: ["mdbook serve -n 0.0.0.0 -p 3000;' && echo 'mdbook started successfully'"]
